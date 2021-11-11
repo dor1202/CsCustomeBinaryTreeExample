@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4Kv4YmEc5l781XfVZgxNWaU/9lDPs3IPMzTP2UWNBnp8SAqW31Fsva1w1h7pRz8ZT49UPRO+LILc99KfdurOA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\CsCustomeBinaryTreeExample\\DataModels\\DataModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorschreiber\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dorschreiber\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

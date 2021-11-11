@@ -1,0 +1,14 @@
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\bin\Debug\netstandard2.0\DataForTheManager.deps.json
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\bin\Debug\netstandard2.0\DataForTheManager.dll
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\bin\Debug\netstandard2.0\DataForTheManager.pdb
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\bin\Debug\netstandard2.0\CollectionsGeneric.dll
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\bin\Debug\netstandard2.0\DataModels.dll
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\bin\Debug\netstandard2.0\CollectionsGeneric.pdb
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\bin\Debug\netstandard2.0\DataModels.pdb
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\obj\Debug\netstandard2.0\DataForTheManager.csprojAssemblyReference.cache
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\obj\Debug\netstandard2.0\DataForTheManager.AssemblyInfoInputs.cache
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\obj\Debug\netstandard2.0\DataForTheManager.AssemblyInfo.cs
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\obj\Debug\netstandard2.0\DataForTheManager.csproj.CoreCompileInputs.cache
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\obj\Debug\netstandard2.0\DataForTheManager.csproj.CopyComplete
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\obj\Debug\netstandard2.0\DataForTheManager.dll
+C:\SelaCollege\DataBaseProject-BoxesProject\Project\DataForTheManager\obj\Debug\netstandard2.0\DataForTheManager.pdb

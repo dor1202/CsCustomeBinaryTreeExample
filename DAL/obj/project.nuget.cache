@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgwXk0YBbgOQwN7ByipV9D4Mn7cT5n3SXystzzde5DWm8JrxCNa42bhf959WceuIQ5i3kJ4u+xdmvaOR3bgQ3w==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\CsCustomeBinaryTreeExample\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorschreiber\\.nuget\\packages\\ecocore\\7.0.0.12441\\ecocore.7.0.0.12441.nupkg.sha512",
+    "C:\\Users\\dorschreiber\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dorschreiber\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EcoCore 7.0.0.12441' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EcoCore",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
